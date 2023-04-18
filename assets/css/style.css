@@ -773,7 +773,9 @@ section {
   color: #68A4C4;
   font-size: 32px;
 }
-
+.why-us p{
+  text-align: justify;
+}
 .why-us .icon-box:hover .icon {
   background: #68A4C4;
 }
